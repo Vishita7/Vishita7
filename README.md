@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# Vishita
 <h1 align="center">Hi 👋, I'm Vishita Yadav</h1>
 <h3 align="center">I am an enthusiast, passionate about leveraging data-driven insights to solve complex problems and create meaningful impact.</h3>
 
