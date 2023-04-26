@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vishita Yadav</h1>
-<h3 align="center">I am a Data Enthusiasts</h3>
+<h3 align="center">I am a data enthusiastic, passionate about leveraging data-driven insights to solve complex problems and create meaningful impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishita7&label=Profile%20views&color=0e75b6&style=flat" alt="vishita7" /> </p>
 
